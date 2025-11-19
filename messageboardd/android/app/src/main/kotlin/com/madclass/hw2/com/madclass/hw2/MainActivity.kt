@@ -1,4 +1,4 @@
-package com.example.messageboardd
+package com.madclass.hw2
 
 import io.flutter.embedding.android.FlutterActivity
 
